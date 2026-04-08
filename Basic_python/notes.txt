@@ -1,0 +1,4 @@
+Python Setup Notes
+==============================
+Python version: 3.13.11
+Status: Installation verified
