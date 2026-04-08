@@ -1,0 +1,7 @@
+5 Facts About Python
+========================================
+1. Python was created by Guido van Rossum in 1991.
+2. Python's name comes from Monty Python's Flying Circus.
+3. Python uses indentation (whitespace) to define code blocks.
+4. Python 3 (released 2008) is the current standard — Python 2 is retired.
+5. Python is consistently ranked the #1 most popular programming language.
